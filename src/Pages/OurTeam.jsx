@@ -6,12 +6,12 @@ import Footer from '../components/Footer/Footer'
 function OurTeam() {
   return (
     <>
-    <Navbar/>
+  
     <Hero/>
     <div>
      Our Teams
     </div>
-    <Footer/>
+  
     </>
   )
 }

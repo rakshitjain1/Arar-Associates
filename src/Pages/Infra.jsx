@@ -6,12 +6,11 @@ import Footer from '../components/Footer/Footer'
 function Infra() {
   return (
     <>
-    <Navbar/>
+    
     <Hero/>
     <div>
       Infra
     </div>
-    <Footer/>
     </>
   )
 }

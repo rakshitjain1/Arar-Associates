@@ -7,12 +7,12 @@ import Footer from '../components/Footer/Footer'
 function Gallery() {
   return (
     <>
-    <Navbar/>
+
     <Hero/>
     <div>
    Gallery
     </div>
-    <Footer/>
+   
     </>
   )
 }

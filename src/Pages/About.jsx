@@ -6,12 +6,12 @@ import Footer from '../components/Footer/Footer'
 function About() {
   return (
     <>
-    <Navbar/>
+   
     <Hero/>
     <div>
       about
     </div>
-    <Footer/>
+  
     </>
   )
 }

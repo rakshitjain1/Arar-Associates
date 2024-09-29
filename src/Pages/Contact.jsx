@@ -5,12 +5,11 @@ import Footer from '../components/Footer/Footer'
 function Contact() {
   return (
     <>
-    <Navbar/>
+    
     <Hero/>
     <div>
      Contact us
     </div>
-    <Footer/>
     </>
   )
 }

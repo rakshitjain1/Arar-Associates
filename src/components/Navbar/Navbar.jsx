@@ -1,7 +1,6 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom"; // Import Link from react-router-dom
 import Logo from "../../assets/logo.png";
-import { IoMdSearch } from "react-icons/io";
 import { FaPhone, FaFacebook, FaWhatsapp, FaCaretDown } from "react-icons/fa";
 import { BiLogoGmail } from "react-icons/bi";
 import DarkMode from "./DarkMode";

@@ -7,12 +7,12 @@ import Footer from '../components/Footer/Footer'
 function Resources() {
   return (
     <>
-    <Navbar/>
+   
     <Hero/>
     <div>
      Resources
     </div>
-    <Footer/>
+    
     </>
   )
 }

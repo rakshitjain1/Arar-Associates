@@ -6,13 +6,12 @@ import Footer from '../components/Footer/Footer'
 function Career() {
   return (
     <>
-    <Navbar/>
+
     <Hero/>
     <div>
      Carrer
     </div>
-    <Footer/>
-    </>
+      </>
   )
 }
 
